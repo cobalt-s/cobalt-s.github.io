@@ -1,0 +1,13 @@
+body {
+    font-family:"Comic Sans MS", "Comic Sans", cursive;
+    background-color: #ae7878;
+    background-image: url("images/background2.gif");
+    color: #b87070;
+  }
+
+  #follower{
+    position: absolute;
+    width: 50px;
+    pointer-events: none;
+    transition: transform 0.05s ease-out;
+  }
